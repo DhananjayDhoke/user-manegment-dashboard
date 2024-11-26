@@ -35,7 +35,7 @@ data not updated on the server
   npm install
 
 4. Start the application
-   npm run start  
+   npm run dev  
 
 
 
