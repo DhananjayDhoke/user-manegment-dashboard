@@ -13,7 +13,7 @@ A simple web application for managing user information. The system allows you to
 6. **Validation**: Ensures all required fields are filled with proper input before submission.
 
 ## Assumption
-1. used state update for add,update and delete because in json place holder 
+1. used state update for add,update and delete user because in json place holder 
 data not updated on the server
 ---
 
